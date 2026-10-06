@@ -1,0 +1,52 @@
+======================================================================
+ CS 1430  -  ASSIGNMENT 1  -  SUBMISSION RECEIPT
+======================================================================
+ Status         : COMPLETE - all checks passed
+ GitHub user    : Ethan-Turney
+ Repository     : https://github.com/Ethan-Turney/Assignment1
+ Commit         : 834108c  Initial commit
+ Commit author  : Ethan-Turney
+ Generated      : 2026-10-06 19:16:38
+
+ SELF CHECK
+======================================================================
+ CS 1430  -  ASSIGNMENT 1 SELF CHECK
+ 2026-10-06 19:16:38   Ethan-Turney
+======================================================================
+ [PASS] Python is installed                        3.14.7
+ [PASS] main.py is in this folder                  
+ [PASS] main.py runs without an error                |EEEEEEEEEEE| TTTTTTTTTTTTTT  |H|     |H|         /A\         |N|n      |N|
+ [PASS] The ASCII art is unchanged                 
+ [PASS] You added at least one print statement     1 added
+ [PASS] Your name shows up when the program runs   7 new lines of output
+ [PASS] Git is installed                           git version 2.55.0.windows.5
+ [PASS] This folder is a Git repository            
+ [PASS] You have made a commit                     "Initial commit"
+ [PASS] This repo points at GitHub                 github.com/Ethan-Turney/Assignment1
+ [PASS] Your commit is pushed to GitHub            834108c
+======================================================================
+
+ WHAT YOUR PROGRAM PRINTED
+======================================================================
+
+ _______         __ __
+|   |   |.-----.|  |  |.-----.
+|       ||  -__||  |  ||  _  |__
+|___|___||_____||__|__||_____|  |
+                              |_|
+ ________              __     __ __
+|  |  |  |.-----.----.|  |.--|  |  |
+|  |  |  ||  _  |   _||  ||  _  |__|
+|________||_____|__|  |__||_____|__|
+
+CS 1430  |  Introduction to Python  |  UW-Platteville
+
+
+|EEEEEEEEEEE| TTTTTTTTTTTTTT  |H|     |H|         /A\         |N|n      |N|
+|e|                 |t|       |H|     |H|        /A^A\        |N| n     |N|
+|e|                 |t|       |H|     |H|       /A/ \A\       |N|  n    |N|
+|EEEEEEEE|          |t|       |HhhhhhhhH|      /A/   \A\      |N|   n   |N|
+|e|                 |t|       |H|     |H|     /AaaaaaaaA\     |N|    n  |N|
+|e|                 |t|       |H|     |H|    /A/       \A\    |N|     n |N|
+|eEEEEEEEEEE|       |t|       |H|     |H|   /A/         \A\   |N|      n|N|
+======================================================================
